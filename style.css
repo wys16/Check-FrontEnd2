@@ -57,7 +57,7 @@ main form input[type="text"] {
     border: 1px solid #ddd;
     margin-bottom: 20px;
     box-sizing: border-box;
-    font-size: 16px;
+    font-size: 15px;
 }
 main form input[type="url"] {
     width: 100%;
